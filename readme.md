@@ -1,7 +1,5 @@
 # Snowing Tirana (SNT) NFT Token
 
-This is a demo app on how to deploy your own NFT to the Ethetereum Blockchain.
-
 ![](https://ipfs.io/ipfs/QmemZ5r6WnX4JhJdnkq3FtuZzDCf72NYsSTPR6DRr8mTDB)
 
 ## Getting started
@@ -26,10 +24,6 @@ Once done with the Getting started bit, you can run this example using the steps
 - IPFS
 - JavaScript
 - Solidity
-
-### Automated Tests
-
-- Currently, there are no automated tests available for this project. This will be implemented at a later date.
 
 ## Author
 👤 **Ilir Hushi**
